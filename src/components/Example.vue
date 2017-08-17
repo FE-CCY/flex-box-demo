@@ -55,7 +55,7 @@
             </li>
           </ol>
           <div class="search-box">
-            <input type="text" class="keyword-ipt" placeholder="keyword">
+            <input type="text" class="keyword-ipt" placeholder="CVTE前端沙龙">
             <button class="iconfont">&#xe6ac;</button>
           </div>
           <div class="iconfont sub-menu">
